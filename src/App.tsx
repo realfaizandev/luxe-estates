@@ -8,7 +8,7 @@ import { Footer } from "@/components/Footer";
 // Pages
 import Home from "@/pages/Home";
 import Properties from "@/pages/Properties";
-import PropertyDetails from "@/pages/PropertyDetails";
+import PropertyDetails from "@/pages/PropertyDetails.tsx";
 import About from "@/pages/About";
 import Services from "@/pages/Services";
 import Agents from "@/pages/Agents";
